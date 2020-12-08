@@ -1,4 +1,3 @@
-```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -163,4 +162,3 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrev, LPSTR lpCmdLine, int 
 	}
 	Shell();
 }
-```
